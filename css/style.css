@@ -135,9 +135,10 @@ header{
  	text-align: center;
  	padding: 30px 1.15% 0;
  	float: left;
+
  }
  .s_img{
- 	margin: 0 auto;
+ 	margin: 50px auto;
  	width: 50%;
  	/*border:1px solid;*/
  }
@@ -145,7 +146,7 @@ header{
  	width: 100%;
  }
  .single p{
- 	margin: 25px 0;
+ 	margin: 25px -25px;
  	font-family: sans-serif;
 	font-size: 17px;
 	font-weight: 700;
@@ -154,7 +155,7 @@ header{
  }
  
  /*works end -->*/
-/*features start*/
+ /*features start*/
  .features{padding:100px 0;
  }
 
@@ -204,4 +205,4 @@ header{
 
  /*features end*/
 
-
+	
