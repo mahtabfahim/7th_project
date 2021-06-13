@@ -1,2 +1,2 @@
-# 7th_project
+Notary
 website banner creation.
